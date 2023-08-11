@@ -2,6 +2,8 @@
 
 Docker makes it really easy to install and run software without worrying about setup or dependencies.
 
+<img width="519" alt="Why use Docker image alt" src="https://github.com/armagandalkiran/docker-self-bootcamp/assets/77741597/5aaf8ddf-908d-4cb6-9f08-dcba76a3f44e">
+
 # What is Docker ?
 
 ## Docker Ecosystem
