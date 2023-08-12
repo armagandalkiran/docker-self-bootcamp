@@ -8,7 +8,7 @@ Writing a dockerfile == Being given a computer with no OS and being told to inst
 
 ## Building a docker file
 
-- docker build . --no-cache --progress=plain
+- docker build --no-cache --progress=plain .
 
 ## Steps
 
