@@ -4,11 +4,15 @@ Dockerfile: Configuration to define how our container should behave.
 
 Writing a dockerfile == Being given a computer with no OS and being told to install Chrome.
 
+<img width="644" alt="How do you install chrome image" src="https://github.com/armagandalkiran/docker-self-bootcamp/assets/77741597/12ad5d03-afcd-4bd2-a09b-7d7e3654f67f">
+
 ## Building a docker file
 
 - docker build . --no-cache --progress=plain
 
 ## Steps
+
+<img width="822" alt="Dockerfile steps image" src="https://github.com/armagandalkiran/docker-self-bootcamp/assets/77741597/06a07f52-9efd-43fb-b069-79591b76b26d">
 
 ### FROM alpine
 
