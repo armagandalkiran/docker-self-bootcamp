@@ -20,3 +20,18 @@ So, Docker is a platform or ecosystem around creating and running containers.
 Image: Single file with all the deps and config required to run a program.
 
 Container: Instance of an image. Runs a program. Container is a program with it's own isolated set of hardware resources. ( memory, network tech, hard drive )
+
+## Docker Client
+
+# What is a container ? ( in detail )
+
+Namespacing: Isolating resources per process (or group of processes)
+
+(Processes, Hard drive, Network, Users, Hostnames, Inter Process Communication)
+
+Control Groups (cgroups): Limit amount of resources used per process.
+
+(Memory, CPU Usage, HD I/O, Network Bandwith)
+
+# How is Docker running on computer ?
+
